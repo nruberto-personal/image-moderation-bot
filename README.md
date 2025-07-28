@@ -73,24 +73,21 @@ An intelligent image moderation system built with CLIP (Contrastive Language-Ima
 ## 📸 Screenshots
 
 ### Main Interface
-<!-- Add screenshot of main Streamlit interface here -->
-![Main Interface](screenshots/main-interface.png)
+<img width="1917" height="826" alt="image" src="https://github.com/user-attachments/assets/f47318e8-defb-4e40-8a0f-5801175ad70b" />
 
 ### Upload Image Tab
-<!-- Add screenshot of upload functionality -->
-![Upload Image](screenshots/upload-image.png)
+<img width="1919" height="816" alt="image" src="https://github.com/user-attachments/assets/c5f4d096-6f18-4757-8eef-959e6cb71a3c" />
 
 ### Reddit Browsing Tab
-<!-- Add screenshot of Reddit integration -->
-![Reddit Browsing](screenshots/reddit-browsing.png)
+<img width="1919" height="829" alt="image" src="https://github.com/user-attachments/assets/bf8fe075-6dc1-4db7-8381-4e41305a4b7c" />
+<img width="1919" height="817" alt="image" src="https://github.com/user-attachments/assets/04fe5ef8-158a-4e61-aab3-e103904b916c" />
 
 ### Train Model Tab
-<!-- Add screenshot of training interface -->
-![Train Model](screenshots/train-model.png)
+<img width="1919" height="818" alt="image" src="https://github.com/user-attachments/assets/3c2adf89-fcdf-4ebd-8b9a-de21b7511c09" />
 
 ### Model Analysis Results
-<!-- Add screenshot of analysis results -->
-![Analysis Results](screenshots/analysis-results.png)
+<img width="1919" height="819" alt="image" src="https://github.com/user-attachments/assets/79f89e98-8bb2-4524-83cf-7480648c2aaf" />
+<img width="1096" height="675" alt="image" src="https://github.com/user-attachments/assets/c7a031e7-94ab-4fd1-9c77-426a2379e74c" />
 
 ## 🎯 How to Use
 
